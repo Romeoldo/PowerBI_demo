@@ -1,4 +1,3 @@
-# PowerBI_demo
 # Call Center Scorecard Project
 
 ## Introduction
