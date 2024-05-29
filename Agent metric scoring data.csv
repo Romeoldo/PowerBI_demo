@@ -1,0 +1,217 @@
+﻿Indicator,Agent Group,Interval Start,Interval End,Point,Rating,Letter,Target,MaxPoint
+Total Score Point,CES,99.9,100,100,Outstanding,A,80,100
+Total Score Point,LEAD,99.9,100,100,Outstanding,A,80,100
+Total Score Point,LES,99.9,100,100,Outstanding,A,80,100
+Total Score Point,NH,99.9,100,100,Outstanding,A,80,100
+Total Score Point,SES,99.9,100,100,Outstanding,A,80,100
+Total Score Point,TES,99.9,100,100,Outstanding,A,80,100
+Account Dispositioning,CES,0,1,16.66,Outstanding,A,14.5,16.66
+Account Dispositioning,LEAD,0,1,16.66,Outstanding,A,14.5,16.66
+Account Dispositioning,LES,0,1,16.66,Outstanding,A,14.5,16.66
+Account Dispositioning,NH,0,1,16.66,Outstanding,A,14.5,16.66
+Account Dispositioning,SES,0,1,16.66,Outstanding,A,14.5,16.66
+Account Dispositioning,TES,0,1,16.66,Outstanding,A,14.5,16.66
+ACW,CES,00:00:00,00:00:10,16.66,Outstanding,A,14.5,16.66
+ACW,LEAD,00:00:00,00:00:08,16.66,Outstanding,A,14.5,16.66
+ACW,LES,00:00:00,00:00:08,16.66,Outstanding,A,14.5,16.66
+ACW,NH,00:00:00,00:00:10,16.66,Outstanding,A,14.5,16.66
+ACW,SES,00:00:00,00:00:08,16.66,Outstanding,A,14.5,16.66
+ACW,TES,00:00:00,00:00:08,16.66,Outstanding,A,14.5,16.66
+Attendance,CES,98.10 %,100.00 %,16.66,Outstanding,A,14.5,16.66
+Attendance,LEAD,98.10 %,100.00 %,16.66,Outstanding,A,14.5,16.66
+Attendance,LES,98.10 %,100.00 %,16.66,Outstanding,A,14.5,16.66
+Attendance,NH,98.10 %,100.00 %,16.66,Outstanding,A,14.5,16.66
+Attendance,SES,98.10 %,100.00 %,16.66,Outstanding,A,14.5,16.66
+Attendance,TES,98.10 %,100.00 %,16.66,Outstanding,A,14.5,16.66
+CPH,CES,6,100,16.66,Outstanding,A,14.5,16.66
+CPH,LEAD,5.9,100,16.66,Outstanding,A,14.5,16.66
+CPH,LES,8,100,16.66,Outstanding,A,14.5,16.66
+CPH,NH,6,100,16.66,Outstanding,A,14.5,16.66
+CPH,SES,5.9,100,16.66,Outstanding,A,14.5,16.66
+CPH,TES,5.9,100,16.66,Outstanding,A,14.5,16.66
+CSAT,CES,90.00 %,100.00 %,16.66,Outstanding,A,14.5,16.66
+CSAT,LEAD,90.00 %,100.00 %,16.66,Outstanding,A,14.5,16.66
+CSAT,LES,90.00 %,100.00 %,16.66,Outstanding,A,14.5,16.66
+CSAT,NH,90.00 %,100.00 %,16.66,Outstanding,A,14.5,16.66
+CSAT,SES,90.00 %,100.00 %,16.66,Outstanding,A,14.5,16.66
+CSAT,TES,90.00 %,100.00 %,16.66,Outstanding,A,14.5,16.66
+HOLD,CES,00:00:00,00:00:12,16.66,Outstanding,A,14.5,16.66
+HOLD,LEAD,00:00:00,00:00:20,16.66,Outstanding,A,14.5,16.66
+HOLD,LES,00:00:00,00:00:20,16.66,Outstanding,A,14.5,16.66
+HOLD,NH,00:00:00,00:00:12,16.66,Outstanding,A,14.5,16.66
+HOLD,SES,00:00:00,00:00:20,16.66,Outstanding,A,14.5,16.66
+HOLD,TES,00:00:00,00:00:20,16.66,Outstanding,A,14.5,16.66
+Repeat,CES,0.00 %,7.00 %,16.66,Outstanding,A,14.5,16.66
+Repeat,LEAD,0.00 %,7.00 %,16.66,Outstanding,A,14.5,16.66
+Repeat,LES,0.00 %,7.00 %,16.66,Outstanding,A,14.5,16.66
+Repeat,NH,0.00 %,7.00 %,16.66,Outstanding,A,14.5,16.66
+Repeat,SES,0.00 %,7.00 %,16.66,Outstanding,A,14.5,16.66
+Repeat,TES,0.00 %,7.00 %,16.66,Outstanding,A,14.5,16.66
+Talk Time,CES,00:00:00,00:06:40,16.66,Outstanding,A,14.5,16.66
+Talk Time,LEAD,00:00:00,00:07:15,16.66,Outstanding,A,14.5,16.66
+Talk Time,LES,00:00:00,00:05:00,16.66,Outstanding,A,14.5,16.66
+Talk Time,NH,00:00:00,00:06:40,16.66,Outstanding,A,14.5,16.66
+Talk Time,SES,00:00:00,00:07:15,16.66,Outstanding,A,14.5,16.66
+Talk Time,TES,00:00:00,00:07:15,16.66,Outstanding,A,14.5,16.66
+Account Dispositioning,CES,2,3,14.5,Highly Effective,B,14.5,16.66
+Account Dispositioning,LEAD,2,3,14.5,Highly Effective,B,14.5,16.66
+Account Dispositioning,LES,2,3,14.5,Highly Effective,B,14.5,16.66
+Account Dispositioning,NH,2,3,14.5,Highly Effective,B,14.5,16.66
+Account Dispositioning,SES,2,3,14.5,Highly Effective,B,14.5,16.66
+Account Dispositioning,TES,2,3,14.5,Highly Effective,B,14.5,16.66
+ACW,CES,00:00:11,00:00:20,14.5,Highly Effective,B,14.5,16.66
+ACW,LEAD,00:00:09,00:00:15,14.5,Highly Effective,B,14.5,16.66
+ACW,LES,00:00:09,00:00:15,14.5,Highly Effective,B,14.5,16.66
+ACW,NH,00:00:11,00:00:20,14.5,Highly Effective,B,14.5,16.66
+ACW,SES,00:00:09,00:00:15,14.5,Highly Effective,B,14.5,16.66
+ACW,TES,00:00:09,00:00:15,14.5,Highly Effective,B,14.5,16.66
+Attendance,CES,97.10 %,98.00 %,14.5,Highly Effective,B,14.5,16.66
+Attendance,LEAD,97.10 %,98.00 %,14.5,Highly Effective,B,14.5,16.66
+Attendance,LES,97.10 %,98.00 %,14.5,Highly Effective,B,14.5,16.66
+Attendance,NH,97.10 %,98.00 %,14.5,Highly Effective,B,14.5,16.66
+Attendance,SES,97.10 %,98.00 %,14.5,Highly Effective,B,14.5,16.66
+Attendance,TES,97.10 %,98.00 %,14.5,Highly Effective,B,14.5,16.66
+CPH,CES,4.4,5.9,14.5,Highly Effective,B,14.5,16.66
+CPH,LEAD,3.8,5.8,14.5,Highly Effective,B,14.5,16.66
+CPH,LES,5.5,7.9,14.5,Highly Effective,B,14.5,16.66
+CPH,NH,4.4,5.9,14.5,Highly Effective,B,14.5,16.66
+CPH,SES,3.8,5.8,14.5,Highly Effective,B,14.5,16.66
+CPH,TES,3.8,5.8,14.5,Highly Effective,B,14.5,16.66
+CSAT,CES,80.00 %,0.89 %,14.5,Highly Effective,B,14.5,16.66
+CSAT,LEAD,80.00 %,0.89 %,14.5,Highly Effective,B,14.5,16.66
+CSAT,LES,80.00 %,0.89 %,14.5,Highly Effective,B,14.5,16.66
+CSAT,NH,80.00 %,0.89 %,14.5,Highly Effective,B,14.5,16.66
+CSAT,SES,80.00 %,0.89 %,14.5,Highly Effective,B,14.5,16.66
+CSAT,TES,80.00 %,0.89 %,14.5,Highly Effective,B,14.5,16.66
+HOLD,CES,00:00:13,00:01:50,14.5,Highly Effective,B,14.5,16.66
+HOLD,LEAD,00:00:21,00:01:40,14.5,Highly Effective,B,14.5,16.66
+HOLD,LES,00:00:21,00:00:54,14.5,Highly Effective,B,14.5,16.66
+HOLD,NH,00:00:13,00:01:50,14.5,Highly Effective,B,14.5,16.66
+HOLD,SES,00:00:21,00:01:40,14.5,Highly Effective,B,14.5,16.66
+HOLD,TES,00:00:21,00:01:40,14.5,Highly Effective,B,14.5,16.66
+Repeat,CES,7.10 %,10.00 %,14.5,Highly Effective,B,14.5,16.66
+Repeat,LEAD,7.10 %,10.00 %,14.5,Highly Effective,B,14.5,16.66
+Repeat,LES,7.10 %,10.00 %,14.5,Highly Effective,B,14.5,16.66
+Repeat,NH,7.10 %,10.00 %,14.5,Highly Effective,B,14.5,16.66
+Repeat,SES,7.10 %,10.00 %,14.5,Highly Effective,B,14.5,16.66
+Repeat,TES,7.10 %,10.00 %,14.5,Highly Effective,B,14.5,16.66
+Talk Time,CES,00:06:41,00:09:00,14.5,Highly Effective,B,14.5,16.66
+Talk Time,LEAD,00:07:16,00:09:20,14.5,Highly Effective,B,14.5,16.66
+Talk Time,LES,00:05:01,00:07:00,14.5,Highly Effective,B,14.5,16.66
+Talk Time,NH,00:06:41,00:09:00,14.5,Highly Effective,B,14.5,16.66
+Talk Time,SES,00:07:16,00:09:20,14.5,Highly Effective,B,14.5,16.66
+Talk Time,TES,00:07:16,00:09:20,14.5,Highly Effective,B,14.5,16.66
+Account Dispositioning,CES,4,5,12.5,Successful,C,14.5,16.66
+Account Dispositioning,LEAD,4,5,12.5,Successful,C,14.5,16.66
+Account Dispositioning,LES,4,5,12.5,Successful,C,14.5,16.66
+Account Dispositioning,NH,4,5,12.5,Successful,C,14.5,16.66
+Account Dispositioning,SES,4,5,12.5,Successful,C,14.5,16.66
+Account Dispositioning,TES,4,5,12.5,Successful,C,14.5,16.66
+ACW,CES,00:00:21,00:00:30,12.5,Successful,C,14.5,16.66
+ACW,LEAD,00:00:16,00:00:25,12.5,Successful,C,14.5,16.66
+ACW,LES,00:00:16,00:00:20,12.5,Successful,C,14.5,16.66
+ACW,NH,00:00:21,00:00:30,12.5,Successful,C,14.5,16.66
+ACW,SES,00:00:16,00:00:25,12.5,Successful,C,14.5,16.66
+ACW,TES,00:00:16,00:00:25,12.5,Successful,C,14.5,16.66
+Attendance,CES,96.10 %,97.00 %,12.5,Successful,C,14.5,16.66
+Attendance,LEAD,96.10 %,97.00 %,12.5,Successful,C,14.5,16.66
+Attendance,LES,96.10 %,97.00 %,12.5,Successful,C,14.5,16.66
+Attendance,NH,96.10 %,97.00 %,12.5,Successful,C,14.5,16.66
+Attendance,SES,96.10 %,97.00 %,12.5,Successful,C,14.5,16.66
+Attendance,TES,96.10 %,97.00 %,12.5,Successful,C,14.5,16.66
+CPH,CES,3.4,4.3,12.5,Successful,C,14.5,16.66
+CPH,LEAD,2,3.7,12.5,Successful,C,14.5,16.66
+CPH,LES,3.5,5.4,12.5,Successful,C,14.5,16.66
+CPH,NH,3.4,4.3,12.5,Successful,C,14.5,16.66
+CPH,SES,2,3.7,12.5,Successful,C,14.5,16.66
+CPH,TES,2,3.7,12.5,Successful,C,14.5,16.66
+CSAT,CES,50.00 %,0.79 %,12.5,Successful,C,14.5,16.66
+CSAT,LEAD,50.00 %,0.79 %,12.5,Successful,C,14.5,16.66
+CSAT,LES,50.00 %,0.79 %,12.5,Successful,C,14.5,16.66
+CSAT,NH,50.00 %,0.79 %,12.5,Successful,C,14.5,16.66
+CSAT,SES,50.00 %,0.79 %,12.5,Successful,C,14.5,16.66
+CSAT,TES,50.00 %,0.79 %,12.5,Successful,C,14.5,16.66
+HOLD,CES,00:01:51,00:02:45,12.5,Successful,C,14.5,16.66
+HOLD,LEAD,00:01:41,00:02:50,12.5,Successful,C,14.5,16.66
+HOLD,LES,00:00:55,00:01:20,12.5,Successful,C,14.5,16.66
+HOLD,NH,00:01:51,00:02:45,12.5,Successful,C,14.5,16.66
+HOLD,SES,00:01:41,00:02:50,12.5,Successful,C,14.5,16.66
+HOLD,TES,00:01:41,00:02:50,12.5,Successful,C,14.5,16.66
+Repeat,CES,10.10 %,16.50 %,12.5,Successful,C,14.5,16.66
+Repeat,LEAD,10.10 %,16.50 %,12.5,Successful,C,14.5,16.66
+Repeat,LES,10.10 %,16.50 %,12.5,Successful,C,14.5,16.66
+Repeat,NH,10.10 %,16.50 %,12.5,Successful,C,14.5,16.66
+Repeat,SES,10.10 %,16.50 %,12.5,Successful,C,14.5,16.66
+Repeat,TES,10.10 %,16.50 %,12.5,Successful,C,14.5,16.66
+Talk Time,CES,00:09:01,00:10:40,12.5,Successful,C,14.5,16.66
+Talk Time,LEAD,00:09:21,00:12:00,12.5,Successful,C,14.5,16.66
+Talk Time,LES,00:07:01,00:09:00,12.5,Successful,C,14.5,16.66
+Talk Time,NH,00:09:01,00:10:40,12.5,Successful,C,14.5,16.66
+Talk Time,SES,00:09:21,00:12:00,12.5,Successful,C,14.5,16.66
+Talk Time,TES,00:09:21,00:12:00,12.5,Successful,C,14.5,16.66
+Account Dispositioning,CES,6,1000,5,Unsuccessful,F,14.5,16.66
+Account Dispositioning,LEAD,6,1000,5,Unsuccessful,F,14.5,16.66
+Account Dispositioning,LES,6,1000,5,Unsuccessful,F,14.5,16.66
+Account Dispositioning,NH,6,1000,5,Unsuccessful,F,14.5,16.66
+Account Dispositioning,SES,6,1000,5,Unsuccessful,F,14.5,16.66
+Account Dispositioning,TES,6,1000,5,Unsuccessful,F,14.5,16.66
+ACW,CES,00:00:31,00:16:40,5,Unsuccessful,F,14.5,16.66
+ACW,LEAD,00:00:26,00:16:40,5,Unsuccessful,F,14.5,16.66
+ACW,LES,00:00:21,00:16:40,5,Unsuccessful,F,14.5,16.66
+ACW,NH,00:00:31,00:16:40,5,Unsuccessful,F,14.5,16.66
+ACW,SES,00:00:26,00:16:40,5,Unsuccessful,F,14.5,16.66
+ACW,TES,00:00:26,00:16:40,5,Unsuccessful,F,14.5,16.66
+Attendance,CES,0.00 %,96.00 %,5,Unsuccessful,F,14.5,16.66
+Attendance,LEAD,0.00 %,96.00 %,5,Unsuccessful,F,14.5,16.66
+Attendance,LES,0.00 %,96.00 %,5,Unsuccessful,F,14.5,16.66
+Attendance,NH,0.00 %,96.00 %,5,Unsuccessful,F,14.5,16.66
+Attendance,SES,0.00 %,96.00 %,5,Unsuccessful,F,14.5,16.66
+Attendance,TES,0.00 %,96.00 %,5,Unsuccessful,F,14.5,16.66
+CPH,CES,0,3.3,5,Unsuccessful,F,14.5,16.66
+CPH,LEAD,0,1.9,5,Unsuccessful,F,14.5,16.66
+CPH,LES,0,3.4,5,Unsuccessful,F,14.5,16.66
+CPH,NH,0,3.3,5,Unsuccessful,F,14.5,16.66
+CPH,SES,0,1.9,5,Unsuccessful,F,14.5,16.66
+CPH,TES,0,1.9,5,Unsuccessful,F,14.5,16.66
+CSAT,CES,0.00 %,0.49 %,5,Unsuccessful,F,14.5,16.66
+CSAT,LEAD,0.00 %,0.49 %,5,Unsuccessful,F,14.5,16.66
+CSAT,LES,0.00 %,0.49 %,5,Unsuccessful,F,14.5,16.66
+CSAT,NH,0.00 %,0.49 %,5,Unsuccessful,F,14.5,16.66
+CSAT,SES,0.00 %,0.49 %,5,Unsuccessful,F,14.5,16.66
+CSAT,TES,0.00 %,0.49 %,5,Unsuccessful,F,14.5,16.66
+HOLD,CES,00:02:46,00:16:40,5,Unsuccessful,F,14.5,16.66
+HOLD,LEAD,00:02:51,00:16:40,5,Unsuccessful,F,14.5,16.66
+HOLD,LES,00:01:21,00:16:40,5,Unsuccessful,F,14.5,16.66
+HOLD,NH,00:02:46,00:16:40,5,Unsuccessful,F,14.5,16.66
+HOLD,SES,00:02:51,00:16:40,5,Unsuccessful,F,14.5,16.66
+HOLD,TES,00:02:51,00:16:40,5,Unsuccessful,F,14.5,16.66
+Repeat,CES,16.60 %,100.00 %,5,Unsuccessful,F,14.5,16.66
+Repeat,LEAD,16.60 %,100.00 %,5,Unsuccessful,F,14.5,16.66
+Repeat,LES,16.60 %,100.00 %,5,Unsuccessful,F,14.5,16.66
+Repeat,NH,16.60 %,100.00 %,5,Unsuccessful,F,14.5,16.66
+Repeat,SES,16.60 %,100.00 %,5,Unsuccessful,F,14.5,16.66
+Repeat,TES,16.60 %,100.00 %,5,Unsuccessful,F,14.5,16.66
+Talk Time,CES,00:10:41,02:46:40,5,Unsuccessful,F,14.5,16.66
+Talk Time,LEAD,00:12:01,02:46:40,5,Unsuccessful,F,14.5,16.66
+Talk Time,LES,00:09:01,02:46:40,5,Unsuccessful,F,14.5,16.66
+Talk Time,NH,00:10:41,02:46:40,5,Unsuccessful,F,14.5,16.66
+Talk Time,SES,00:12:01,02:46:40,5,Unsuccessful,F,14.5,16.66
+Talk Time,TES,00:12:01,02:46:40,5,Unsuccessful,F,14.5,16.66
+Total Score Point,CES,87,99.8,0,Highly Effective,B,80,100
+Total Score Point,CES,75,86.9,0,Successful,C,80,100
+Total Score Point,CES,0,74.9,0,Unsuccessful,F,80,100
+Total Score Point,LEAD,87,99.8,0,Highly Effective,B,80,100
+Total Score Point,LEAD,75,86.9,0,Successful,C,80,100
+Total Score Point,LEAD,0,74.9,0,Unsuccessful,F,80,100
+Total Score Point,LES,87,99.8,0,Highly Effective,B,80,100
+Total Score Point,LES,75,86.9,0,Successful,C,80,100
+Total Score Point,LES,0,74.9,0,Unsuccessful,F,80,100
+Total Score Point,NH,87,99.8,0,Highly Effective,B,80,100
+Total Score Point,NH,75,86.9,0,Successful,C,80,100
+Total Score Point,NH,0,74.9,0,Unsuccessful,F,80,100
+Total Score Point,SES,87,99.8,0,Highly Effective,B,80,100
+Total Score Point,SES,75,86.9,0,Successful,C,80,100
+Total Score Point,SES,0,74.9,0,Unsuccessful,F,80,100
+Total Score Point,TES,87,99.8,0,Highly Effective,B,80,100
+Total Score Point,TES,75,86.9,0,Successful,C,80,100
+Total Score Point,TES,0,74.9,0,Unsuccessful,F,80,100
