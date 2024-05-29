@@ -85,3 +85,50 @@ These data are used to evaluate agent performance across different metrics and c
 4. **Bonus Calculation**: Bonuses are calculated using total scores and assigned classifications.
 
 This information helps maintain a transparent and fair evaluation process, ensuring agents are adequately rewarded for their performance.
+
+### Agents Metrics Glossary
+
+#### Metrics by Pages
+
+- **Agent Call Time** (does not include holiday dates):
+  - Measures the total time spent by agents on calls excluding holidays.
+
+- **Agent Productive Time** (Does not include holidays):
+  - **Productive Time**: Calculated as Login Time - Unapproved Time (Pause Time from the Reason Code Summary Report).
+  - **CPH (Calls Per Hour)**: Productive Time / Total Calls.
+
+- **Agent Time Sheet Exceptions**:
+  - *Four punches total are required for timesheet exceptions.*
+  - Over 6 Hours: In, Out, Lunch Punch (33.3% Each).
+  - Under 6 Hours: In & Out Punch (50% Each).
+  - Average all days final scores for Percent.
+
+- **Agent Repeat**:
+  - **Repeat %**: # of Repeats / # of Total Calls (Eliminate scheduling).
+
+- **Average Quarter**:
+  - Number of Accounts Not Dispositioned (all 3 Closure Codes).
+
+#### Holidays Dates
+
+| HolidayDate | HolidayName         |
+|-------------|---------------------|
+| 01/01/2023  | New Year's Day      |
+| 12/26/2022  | Christmas Day       |
+| 11/24/2022  | Thanksgiving Day    |
+| 09/05/2022  | Labor Day           |
+| 07/04/2022  | Independence Day    |
+| 06/20/2022  | Juneteenth          |
+| 05/30/2022  | Memorial Day        |
+| 01/01/2022  | New Year's Day      |
+| 12/25/2021  | Christmas Day       |
+| 12/24/2021  | Christmas Day (Observed) |
+| 11/25/2021  | Thanksgiving Day    |
+| 09/06/2021  | Labor Day           |
+| 07/04/2021  | Independence Day    |
+| 05/31/2021  | Memorial Day        |
+| 01/01/2021  | New Year's Day      |
+
+#### Agent Quarterly Bonus
+Agent eligibility will require a Total score of 85 or above.
+
